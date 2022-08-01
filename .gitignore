@@ -1,0 +1,3 @@
+# Project exclude paths
+/learn-apache-maven-app/target/
+/learn-apache-maven-data/target/
